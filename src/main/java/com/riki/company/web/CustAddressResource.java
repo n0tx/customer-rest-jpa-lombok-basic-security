@@ -16,8 +16,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-// saat itu pasti datang
-// aku akan berubah saat ini
 
 import com.riki.company.dto.CustAddressCreateRequestDTO;
 import com.riki.company.dto.CustAddressDetailResponseDTO;
